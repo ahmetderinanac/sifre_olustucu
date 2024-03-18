@@ -1,0 +1,2 @@
+# sifre_olustucu
+şifre
